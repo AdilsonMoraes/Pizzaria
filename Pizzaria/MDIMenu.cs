@@ -21,5 +21,10 @@ namespace Pizzaria
         {
 
         }
+
+        private void cadastroDeClientesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
