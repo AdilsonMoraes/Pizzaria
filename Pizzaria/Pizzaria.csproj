@@ -53,15 +53,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Properties\Resources.resx">
-      <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
+    <EmbeddedResource Include="MDIMenu.resx">
+      <DependentUpon>MDIMenu.cs</DependentUpon>
     </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-    </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -79,12 +73,18 @@
     <Folder Include="DAO\DAOCadastro\" />
     <Folder Include="DAO\DAOConsulta\" />
     <Folder Include="DAO\DAOMovimentacao\" />
+    <Folder Include="DAO\DAORelatorio\" />
     <Folder Include="Neg\NegCadastro\" />
     <Folder Include="Neg\NegConsulta\" />
     <Folder Include="Neg\NegMovimentacao\" />
+    <Folder Include="Neg\NegRelatorio\" />
     <Folder Include="UI\UICadastro\" />
     <Folder Include="UI\UIConsulta\" />
     <Folder Include="UI\UIMovimentacao\" />
+    <Folder Include="UI\UIRelatorio\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Imagens\Cadastro\cadastro_cliente.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

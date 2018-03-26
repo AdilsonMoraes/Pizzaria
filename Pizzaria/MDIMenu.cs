@@ -16,5 +16,10 @@ namespace Pizzaria
         {
             InitializeComponent();
         }
+
+        private void cadastroDeClienteToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

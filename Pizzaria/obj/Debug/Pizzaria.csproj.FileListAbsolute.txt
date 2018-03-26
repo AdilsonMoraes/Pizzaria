@@ -7,3 +7,12 @@ C:\Users\adilson.moreira\Documents\GitHub\Pizzaria\Pizzaria\bin\Debug\Pizzaria.e
 C:\Users\adilson.moreira\Documents\GitHub\Pizzaria\Pizzaria\bin\Debug\Pizzaria.pdb
 C:\Users\adilson.moreira\Documents\GitHub\Pizzaria\Pizzaria\obj\Debug\Pizzaria.exe
 C:\Users\adilson.moreira\Documents\GitHub\Pizzaria\Pizzaria\obj\Debug\Pizzaria.pdb
+C:\Users\adilson.moreira\Documents\GitHub\PizzariaC#\Pizzaria\Pizzaria\bin\Debug\Pizzaria.exe.config
+C:\Users\adilson.moreira\Documents\GitHub\PizzariaC#\Pizzaria\Pizzaria\bin\Debug\Pizzaria.exe
+C:\Users\adilson.moreira\Documents\GitHub\PizzariaC#\Pizzaria\Pizzaria\bin\Debug\Pizzaria.pdb
+C:\Users\adilson.moreira\Documents\GitHub\PizzariaC#\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csprojResolveAssemblyReference.cache
+C:\Users\adilson.moreira\Documents\GitHub\PizzariaC#\Pizzaria\Pizzaria\obj\Debug\Pizzaria.MDIMenu.resources
+C:\Users\adilson.moreira\Documents\GitHub\PizzariaC#\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csproj.GenerateResource.Cache
+C:\Users\adilson.moreira\Documents\GitHub\PizzariaC#\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csproj.CoreCompileInputs.cache
+C:\Users\adilson.moreira\Documents\GitHub\PizzariaC#\Pizzaria\Pizzaria\obj\Debug\Pizzaria.exe
+C:\Users\adilson.moreira\Documents\GitHub\PizzariaC#\Pizzaria\Pizzaria\obj\Debug\Pizzaria.pdb
